@@ -1,5 +1,5 @@
 Olá! Me chamo Felipe Melo, seja bem-vindo(a) ao meu perfil no GitHub 👋
-Sobre mim
+- Sobre mim
 Sou estudante de Economia na FEA-USP e gosto muito de estudar programação. Busco conectar esses meus dois interesses sempre buscando aprender algo novo.
 
 <!---
